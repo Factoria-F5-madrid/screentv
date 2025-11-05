@@ -31,11 +31,11 @@ body {
 .container {
   transform: scale(0.85);
   width: 105%;
-  height: 1080px;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 20px;
   padding: 10px;
+  padding-top: 120px;
   justify-content: center;
   align-items: center;
 }
